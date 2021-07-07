@@ -1,0 +1,20 @@
+.btns {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.btns .btn-secondary{
+    width: 11rem;
+}
+.avatar{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+.footer{
+    display: flex;
+    align-items: center;    
+    justify-content: space-around;
+}
